@@ -1,8 +1,8 @@
 ---
 title: Arabic Question Paraphrasing
 emoji: ❓❔
-colorFrom: green
-colorTo: green
+colorFrom: white
+colorTo: red
 sdk: gradio
 app_file: app.py
 pinned: false
