@@ -38,7 +38,7 @@ encoder_no_repeat_ngram_size = gr.inputs.Slider(
     10,
     step=1,
     default=3,
-    label="Ngrams of this size won't be copied from the input (forces more diverse outputs)",
+    label="N-grams of this size won't be copied from the input (forces more diverse outputs)",
 )
 
 outputs = gr.outputs.Textbox(label="السؤال بصيغة مختلفة")
