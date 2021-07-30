@@ -1,6 +1,6 @@
 ---
 title: Arabic Question Paraphrasing
-emoji: ❓
+emoji: ❓❔
 colorFrom: green
 colorTo: green
 sdk: gradio
