@@ -2,7 +2,7 @@
 title: Arabic Question Paraphrasing
 emoji: ❓❔
 colorFrom: white
-colorTo: red
+colorTo: green
 sdk: gradio
 app_file: app.py
 pinned: false
